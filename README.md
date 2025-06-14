@@ -48,3 +48,5 @@ git pull origin corregir
 ## Nuevo
 
 # Error
+
+# Si hay una violacion de alguna politica en github, se debe nuevemente crear el tocken

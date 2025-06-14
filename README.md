@@ -16,7 +16,7 @@ npm install chart.js canvas chartjs-node-canvas
 
 # En un proyecto nuevo de node 
 
-## copiar esto 
+## copiar esto otra vez
 
 npm install @deng-jhparra/paquete-estadistica-cf@1.0.2
 

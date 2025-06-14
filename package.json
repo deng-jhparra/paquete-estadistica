@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhparra777/paquete-estadistica.git"
+    "url": "git+https://github.com/jhparra777/paquete-estadistica.git"
   },
   "keywords": [],
   "author": "jhparra",

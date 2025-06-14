@@ -31,5 +31,7 @@ jobs:
         run: npm ci
       - name: Publicar el paquete en GitHub Packages
         run: npm publish
+      - name: Vewr el valor del Token      
+        run: echo ${{secrets.GITHUB_TOKEN}}
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}

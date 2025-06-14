@@ -22,16 +22,14 @@ jobs:
       - name: Configurar .npmrc
         uses: actions/setup-node@v4
         with:
-          node-version: '22.x'
-          registry-url: 'https://npm.pkg.github.com/'
+          node-version: 22.x
+          registry-url: https://npm.pkg.github.com/
           # Usuario u organización propietaria del workflow
           scope: '@jhparra777'
 
       - name: Instalar dependencias usando versiones de package-lock.json
         run: npm ci
-      #- name: Publicar el paquete en GitHub Packages
-      #  run: npm publish
-      - name: Ver el valor del Token      
-        run: echo ${{secrets.GITHUB_TOKEN}}
+      - name: Publicar el paquete en GitHub Packages
+        run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}

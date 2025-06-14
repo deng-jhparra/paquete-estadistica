@@ -1,5 +1,5 @@
 {
-  "name": "@deng-jhparra/paquete-estadistica",
+  "name": "@jhparra777/paquete-estadistica",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deng-jhparra/paquete-estadistica.git"
+    "url": "https://github.com/jhparra777/paquete-estadistica.git"
   },
   "keywords": [],
   "author": "jhparra",
@@ -16,9 +16,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/deng-jhparra/paquete-estadistica/issues"
+    "url": "https://github.com/jhparra777/paquete-estadistica/issues"
   },
-  "homepage": "https://github.com/deng-jhparra/paquete-estadistica#readme",
+  "homepage": "https://github.com/jhparra777/paquete-estadistica#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js.",
   "dependencies": {
     "canvas": "^3.1.0",

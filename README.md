@@ -51,3 +51,6 @@ git pull origin corregir
 
 # Si hay una violacion de alguna politica en github, se debe nuevemente crear el tocken
 # rEVISANDO EL YML
+
+Revisar sobre los permisos del token
+https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp

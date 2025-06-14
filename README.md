@@ -50,3 +50,4 @@ git pull origin corregir
 # Error
 
 # Si hay una violacion de alguna politica en github, se debe nuevemente crear el tocken
+# rEVISANDO EL YML

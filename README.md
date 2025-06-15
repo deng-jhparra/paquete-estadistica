@@ -54,3 +54,5 @@ git pull origin corregir
 
 Revisar sobre los permisos del token
 https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp
+
+que locura con esto
